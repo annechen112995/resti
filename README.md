@@ -2,8 +2,6 @@
 
 Resti is an android app that allows a user to search enter a point of origin and destination. In response, it gives you an itinerary that has at least a 7 hour layover at the hub cities of the airlines that fly that route. The app utilizes [Delta API](http://dev-delta-airlines.devportal.apigee.com/apiproducts).
 
-## User Stories
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
