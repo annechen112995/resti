@@ -4,7 +4,7 @@ Resti is an android app that allows a user to search enter a point of origin and
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of Resti:
 
 <img src='http://imgur.com/a/qqGKE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
